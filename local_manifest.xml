@@ -2,9 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
- <project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
- 
+ <project path="device/samsung/starqltechn" name="matebuteler/android_device_samsung_sdm845-common.git" remote="github" revision="lineage-18.1" />
+ <project path="device/samsung/sdm845-common" name="Sasukezin678/android_vendor_samsung_sdm845-common.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/samsung/sdm845-common" name="Sasukezin678/Android_device_samsung_starqltechn.git" remote="github" revision="lineage-19.1" />
+ <project path="kernel/samsung/sdm845" name="ZEROAESQUERDA/SDM845_SAMSUNG_KERNEL.git" remote="github" revision="main" />
+
 </manifest>
