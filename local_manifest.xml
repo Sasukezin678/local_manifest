@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/samsung/starqltechn" name="matebuteler/android_device_samsung_sdm845-common.git" remote="github" revision="lineage-18.1" />
- <project path="device/samsung/sdm845-common" name="Sasukezin678/android_vendor_samsung_sdm845-common.git" remote="github" revision="lineage-18.1" />
+ <project path="device/samsung/sdm845-common" name="matebuteler/android_device_samsung_sdm845-common.git" remote="github" revision="lineage-18.1" />
+ <project path="device/samsung/starqltechn" name="Sasukezin678/android_device_samsung_starqltechn.git" remote="github" revision="lineage-19.1" />
  <project path="vendor/samsung/sdm845-common" name="Sasukezin678/Android_device_samsung_starqltechn.git" remote="github" revision="lineage-19.1" />
  <project path="kernel/samsung/sdm845" name="ZEROAESQUERDA/SDM845_SAMSUNG_KERNEL.git" remote="github" revision="main" />
 
